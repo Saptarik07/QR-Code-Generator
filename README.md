@@ -2,14 +2,6 @@
 
 This is a simple QR code generator project implemented using HTML and CSS.
 
-## Table of Contents
-
-- (#introduction)
-- (#features)
-- (#how-to-use)
-- (#demo)
-- [Contributing](#contributing)
-- (#license)
 
 ## Introduction
 
@@ -32,9 +24,6 @@ QR Code Generator is a lightweight web application that allows users to generate
 6. Preview the generated QR code and adjust settings if needed.
 7. Click the "Download" button to save the QR code as a PNG image.
 
-## Demo
-
-You can try out a live demo of the QR code generator [here](#).
 
 ## Contributing
 
@@ -46,5 +35,5 @@ This project is licensed under the MIT License - see the (LICENSE) file for deta
 
 ---
 
-Feel free to adjust and expand this README according to the specifics of your project!
+### Feel free to adjust and expand this README according to the specifics of your project!
  
